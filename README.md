@@ -1,4 +1,4 @@
-# Awesome Writing as a Professional [![Awesome](https://awesome.re/badges.svg)](https://awesome.re)
+# Awesome Writing as a Professional 
 
 > A comprehensive catalog of writing discipline, craft, systems, and practice for professionals — because every serious job is a writing job.
 
